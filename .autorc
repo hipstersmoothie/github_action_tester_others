@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "git-tag",
+    "first-time-contributor"
+  ],
+  "owner": "hipstersmoothie",
+  "repo": "github_action_tester_others",
+  "name": "Andrew Lisowski",
+  "email": "lisowski54@gmail.com"
+}
